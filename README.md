@@ -83,6 +83,13 @@ G(s) = 1 / (s² + 2s + 1)
 ## 📷 Screenshots
 
 *Add screenshots of your app here (recommended)*
+<img src="Screenshot (56).png" width="800"/>
+<img src="Screenshot (57).png" width="800"/>
+<img src="Screenshot (58).png" width="800"/>
+<img src="Screenshot (59).png" width="800"/>
+<img src="Screenshot (60).png" width="800"/>
+
+
 
 ---
 
