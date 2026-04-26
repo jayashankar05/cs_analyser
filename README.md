@@ -6,7 +6,7 @@ A web-based Control System Simulator built using Python and Streamlit to analyze
 
 ## 🌐 Live Demo
 
-👉 (https://csanalyser-rngmzcy968atq35qzfavpb.streamlit.app/)
+👉 https://csanalyser-xicqqq9lyshgratn2whawc.streamlit.app/
 
 ---
 
