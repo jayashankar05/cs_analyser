@@ -12,7 +12,7 @@ A web-based Control System Simulator built using Python and Streamlit to analyze
 
 ## 📌 Features
 
-* 🔹 Transfer Function Input (Numerator & Denominator)
+* 🔹 Transfer Function Input (Numerator & Denominator)skhsifljsklaupairksjdkslsad
 * 🔹 Step Response Plot
 * 🔹 Impulse Response Plot
 * 🔹 Bode Plot (Magnitude & Phase)
