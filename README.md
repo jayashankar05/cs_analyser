@@ -1,6 +1,6 @@
 # 🚀 Control System Simulator
 
-A web-based Control System Simulator built using Python and Streamlit to analyze linear time-invariant (LTI) systems using transfer functions.python based platform to omplement the graphs and plot ,visualisation ,bode plot
+A web-based Control System Simulator built using Python and Streamlit to analyze linear time-invariant (LTI) systems using transfer functions.
 
 ---
 
